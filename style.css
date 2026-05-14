@@ -273,6 +273,7 @@ main {
   align-items: flex-start;
   justify-content: space-between;
   /* margin: 0 7px; */
+  margin-top: 0.5em;
 
 }
 

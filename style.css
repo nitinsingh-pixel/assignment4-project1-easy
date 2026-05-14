@@ -451,8 +451,8 @@ padding: 1em 0.25em;
   position: relative;
   display: flex;
   align-items: center;
-  padding: 5.125em 5.125em;
-  gap: 15px;
+  padding: 1.125em 1.125em;
+  gap: 1em;
 }
 .bottom-bottom img{
   width: 4.5em;

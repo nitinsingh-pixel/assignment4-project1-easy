@@ -37,6 +37,7 @@ main {
   grid-area: top-left;
   /* border: 2px solid white; */
   border-radius: 25px;
+ 
   /* margin: 10px; */
   position: relative;
   object-fit: contain;
@@ -49,7 +50,7 @@ main {
 }
 
 .top-left img {
-  width: 110%;
+  width: 100%;
   bottom: -55px;
   
   position: absolute;

@@ -459,14 +459,14 @@ padding: 15px 5px;
 .qr-text{
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 4px;
 }
 .qr-text h3{
   font-size: 12px;
 }
 .qr-text p{
   font-size: 10px;
-  line-height: 1.4;
+  line-height: 1;
 }
 .bottom-bottom span i{
   font-size: 22px;

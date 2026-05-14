@@ -45,7 +45,7 @@ main {
   justify-content: center;
   overflow: hidden;
   object-fit: cover;
-  margin: 12px 23px;
+  /* margin: 12px 23px; */
 }
 
 .top-left img {
@@ -77,7 +77,7 @@ main {
 .top-center1 img{
   width: 160px;
   object-fit: cover;
-  margin-top: 20px;
+  /* margin-top: 20px; */
   transform: scale(1.8);
 }
 
@@ -115,7 +115,7 @@ main {
 
   background:#232323;
 
-  margin:10px 0;
+  /* margin:10px 0; */
 }
 
 .top-right {

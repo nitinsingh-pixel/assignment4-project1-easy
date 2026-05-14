@@ -168,7 +168,7 @@ main {
 }
 .right p{
   font-size: 0.625em;
-  line-height: 15px;
+  line-height: 1em;
   font-weight: 100;
 
 }
@@ -178,10 +178,11 @@ main {
   grid-area: center;
   /* border: 2px solid white; */
   border-radius: 25px;
-   padding: 30px 20px;
+   padding: 2em 1.25em;
    display: flex;
    flex-direction: column;
    align-items: flex-start;
+   justify-content: space-between;
  
 }
 .location{

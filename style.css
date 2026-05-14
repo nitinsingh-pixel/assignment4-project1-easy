@@ -131,7 +131,7 @@ main {
   align-items: center;
   justify-content: space-between;
   color: white;
-  padding: 0px 15px;
+  padding: 0 1em;
   /* gap: 10px; */
   
 }
@@ -139,20 +139,20 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
-   gap: 5px;
+   gap: 0.26em;
 }
 .left i {
   font-size: 40px;
   color: #f1f1f1;
 }
 .left p{
-  font-size: 11px;
-  line-height: 15px;
+  font-size: 0.625em;
+  line-height: 1em;
   font-weight: 100;
 }
 .line{
   width:1px;
-  height:60px;
+  height:3em;
 
   background:#ffffff55;
 }
@@ -167,7 +167,7 @@ main {
   color: #f1f1f1;
 }
 .right p{
-  font-size: 11px;
+  font-size: 0.625em;
   line-height: 15px;
   font-weight: 100;
 

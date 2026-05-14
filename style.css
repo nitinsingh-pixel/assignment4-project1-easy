@@ -142,7 +142,7 @@ main {
    gap: 0.26em;
 }
 .left i {
-  font-size: 40px;
+  font-size: 2em;
   color: #f1f1f1;
 }
 .left p{
@@ -163,7 +163,7 @@ main {
   gap: 7px;
 }
 .right i {
-  font-size: 30px;
+  font-size: 2em;
   color: #f1f1f1;
 }
 .right p{

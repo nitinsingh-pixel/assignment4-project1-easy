@@ -76,10 +76,11 @@ main {
 
 }
 .top-center1 img{
-  width: 160px;
+  width: 10rem;
   object-fit: cover;
   /* margin-top: 20px; */
   transform: scale(1.8);
+  
 }
 
 .top-center2 {

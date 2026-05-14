@@ -188,7 +188,7 @@ main {
 .location{
   color:#bfbfbf;
 
-  font-size:15px;
+  font-size:1em;
 
   line-height:1.7;
   
@@ -201,8 +201,8 @@ main {
   gap: 10px;
 }
 .location span{
-  width:30px;
-  height:30px;
+  width:2em;
+  height:2em;
   background-color: rgb(213,244,85);
   border-radius: 50%;
   display: flex;
@@ -210,7 +210,7 @@ main {
   align-items: center;
 }
 .location span i{
-  font-size: 20px;
+  font-size: 1.25em;
   color: black;
 }
 .location  .para{
@@ -220,7 +220,7 @@ main {
 .center h2{
   /* margin-top:45px; */
  color: white;
-  font-size:15px;
+  font-size:1em;
 
   line-height:1.2;
 

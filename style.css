@@ -382,6 +382,7 @@ main {
   /* align-items: center; */
  /* margin: 10px; */
   justify-content: space-between;
+  padding: 2em;
 }
 .review-left{
   display: flex;

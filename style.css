@@ -275,9 +275,6 @@ main {
   /* margin: 0 7px; */
 
 }
-.bottom-left p{
-  font-size: 0.7em;
-}
 
 
 .bottom-left h1 {
@@ -352,10 +349,10 @@ main {
 }
 
 .bitcoin p{
-  font-size:1em;
+  font-size:0.7em;
  color: white;
   line-height:1.5;
-   margin: 0 1.5em;
+   margin: 0 1em;
 }
 
 .barcode{

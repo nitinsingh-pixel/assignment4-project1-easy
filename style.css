@@ -405,17 +405,17 @@ main {
  
 }
 .review-right h2{
-  font-size: 80px;
+  font-size: 4em;
 
 }
 .stars{
   color: rgb(213,241,85);
-  font-size: 38px;
+  font-size: 2.25em;
   /* margin-top: -40px; */
 }
 .review-right button{
   background-color: #b85cff;
-  padding: 10px 20px;
+  padding: 0.6em 1.2em;
   border-radius: 10px;
   color: white;
   

@@ -432,7 +432,7 @@ padding: 15px 5px;
 }
 .bottom-top img{
   /* position: absolute; */
-  max-width: 80px;
+  max-width: 40px;
    object-fit: contain;
   height: auto;
   transform: scale(1.5);

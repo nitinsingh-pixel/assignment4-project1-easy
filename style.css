@@ -266,7 +266,7 @@ main {
   grid-area: bottom-left;
   border: 2px solid rgb(197, 202, 117);
   border-radius: 25px;
-  padding: 2.5em 1em;
+  padding: 3em 1.5em;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;

@@ -76,7 +76,7 @@ main {
 
 }
 .top-center1 img{
-  width: 10em;
+  width: 9em;
   object-fit: cover;
   /* margin-top: 20px; */
   transform: scale(1.6);
@@ -88,20 +88,20 @@ main {
   grid-area: top-center2;
   border: 2px solid rgb(65, 4, 4);
   border-radius: 25px;
-   padding:30px 30px;
+   padding:2em 2em;
 
   display:flex;
   flex-direction:column;
 
-  gap:24px;
+  gap:1.5em;
 }
 .menu-item{
   display:flex;
   align-items:center;
  font-family: sans-serif;
-  gap:12px;
+  gap:0.7em;
 
-  font-size:17px;
+  font-size:1em;
 
   text-transform:uppercase;
 

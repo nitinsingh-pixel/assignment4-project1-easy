@@ -436,7 +436,7 @@ main {
 }
 .bottom-top img{
   /* position: absolute; */
-  max-width: 40px;
+  max-width: 3em;
    object-fit: contain;
   height: auto;
   transform: scale(1.5);

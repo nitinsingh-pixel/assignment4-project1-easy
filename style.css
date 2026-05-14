@@ -453,8 +453,8 @@ padding: 15px 5px;
   gap: 15px;
 }
 .bottom-bottom img{
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
 }
 .qr-text{
   display: flex;
@@ -462,10 +462,10 @@ padding: 15px 5px;
   gap: 8px;
 }
 .qr-text h3{
-  font-size: 14px;
+  font-size: 12px;
 }
 .qr-text p{
-  font-size: 11px;
+  font-size: 10px;
   line-height: 1.4;
 }
 .bottom-bottom span i{
